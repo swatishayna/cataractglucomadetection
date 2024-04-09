@@ -1,0 +1,10 @@
+av
+numpy
+matplotlib
+opencv-python-headless
+Pillow
+PyYAML
+streamlit
+streamlit_webrtc
+reportlab
+scikit-image
