@@ -26,18 +26,6 @@ st.write("\n\n\n\n\n")
 st.write("\n\n\n\n\n")
 st.write("\n\n\n\n\n")
 
-st.subheader("Cataract and Glaucoma Classification and Detection")
-st.caption('This project demostrates Cataract and Glaucoma Classification and Detection through fundus Images')
+st.subheader("Cataract Classification")
+st.caption('This project demostrates Cataract Classification and Detection')
 
-# Content
-st.markdown("""
-### Classify and Detect Cataract and Glaucoma
-- Detect and Classify Types of Cataract and Glaucoma from fundus image
-- Detect Cataract and Glaucoma in Real-Time
- 
-
-Below give are the object that our model will detect and classify
-1. Types of Cataract
-2. Types of Glaucoma
-           
-            """)
