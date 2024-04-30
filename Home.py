@@ -20,7 +20,7 @@ st.set_page_config(page_title="Home",
 
 st.markdown("<p style='text-align: right; color: white;'> "+img_to_html('./images/kpmg.png')+"</p>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: white;'> "+img_to_html('./images/national_emblem_resized.png')+"</p>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: blue;'>JHARKHAND HEALTH AI</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>Computer Vision Demo-Image Based Detection</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: grey;'>KPMG DEMO</h3>", unsafe_allow_html=True)
 st.write("\n\n\n\n\n")
 st.write("\n\n\n\n\n")
